@@ -1,2 +1,2 @@
-#Linux Shell Scripts
-Backup of the Linux shell scripts commonly use.
+# Linux Shell Scripts
+A backup of the Linux shell scripts commonly use.
